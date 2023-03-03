@@ -1,0 +1,38 @@
+
+12 PRINCIPIOS AGILES..
+
+1. Sastifacion al Cliente
+2. Cambios
+3. Software Funcional
+4. Colaboración
+5. Individuos Motivados.
+7. Progreso
+8. Desarrollo Sostenible
+9. Mejora Continua
+10. Simpliciad
+11. Autoorganización
+12. Autoevaluación
+
+
+Scrum es una metodología Agil. normlamente son equipos pequeños.
+
+Tres pilares de Scrum: 
+1. Transparaencia
+2. Inspección
+3. Adaptación
+
+
+Valores de scrum
+1. Compromiso
+2. Corage.
+3. Enfoque.
+4. Apertura
+5. Respeto
+
+Equipos de desarrollo.
+caracteristicas
+1. Auto organizados.
+2. Multifuncionales.
+3. No tiene titulos.
+4. No hay Sub equipos.
+5. Solo se puede  modificar al terminar el equipo.
